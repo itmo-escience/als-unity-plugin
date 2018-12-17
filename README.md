@@ -3,7 +3,7 @@
 Plugin for integrate Cifrasoft Offline Fingerprint ACR from [Cifrasoft](http://www.cifrasoft.com/) into Unity project. Support iOS and Android projects. Cifrasoft Offline Fingerprint ACR is an acoustic fingerprinting solution which enables automatic content recognition directly on mobile device without server interaction.
 Cifrasoft Offline Fingerprint ACR is suitable for Second Screen applications, which require synchronization between a piece of content and mobile application.
 
-![Screenshot example](https://github.com/itmo-escience/als-unity-plugin/raw/master/Examples/screenshot.jpg?raw=true)
+<img src="https://github.com/itmo-escience/als-unity-plugin/raw/master/Examples/screenshot.jpg" width="320" height="540">
 
 ## Setup
 For setup plugin you will need to
